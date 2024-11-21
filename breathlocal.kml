@@ -6,7 +6,7 @@
     <NetworkLink>
       <name>Breathlocal</name>
       <Link>
-        <href>https://www.google.com/maps/d/kml?mid=1mlz8dhT6u3JKYM6Exb_uwhB_bpvJzFQ</href>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1mlz8dhT6u3JKYM6Exb_uwhB_bpvJzFQ]]></href>
       </Link>
     </NetworkLink>
   </Document>
