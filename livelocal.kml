@@ -6,7 +6,7 @@
     <NetworkLink>
       <name>live local Lisboa</name>
       <Link>
-        <href>https://www.google.com/maps/d/kml?mid=1VoJre_3APvVscAnBJR8JS2DXoKpPrUY</href>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1VoJre_3APvVscAnBJR8JS2DXoKpPrUY]]></href>
       </Link>
     </NetworkLink>
   </Document>
