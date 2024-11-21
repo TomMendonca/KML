@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>live local Lisboa</name>
+    <description/>
+    <NetworkLink>
+      <name>live local Lisboa</name>
+      <Link>
+        <href>https://www.google.com/maps/d/kml?mid=1VoJre_3APvVscAnBJR8JS2DXoKpPrUY</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
